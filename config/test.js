@@ -9,8 +9,8 @@ module.exports = {
   staticURL: 'http://localhost:2599/',
   appSettingsOverrides: JSON.stringify({
     validRedirSites: [
-      'http://mozilla.bango.net',
-      'https://zippy.pass.allizom.org',
+      'http://10allday.bango.net',
+      'https://zippy.pass.10allday.com',
       'http://localhost'
     ]
   })
