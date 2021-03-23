@@ -3,7 +3,7 @@
 
 # NOTE: this is not provided for production usage.
 
-FROM mozillamarketplace/centos-phantomjs-mkt:0.1
+FROM 10alldaymarketplace/centos-phantomjs-mkt:0.1
 
 ENV IS_DOCKER 1
 
