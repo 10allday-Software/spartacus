@@ -24,7 +24,7 @@ module.exports = {
   },
 
   showClientConsole: false,
-  staticDocsURL: 'https://marketplace-dev-cdn.allizom.org/',
+  staticDocsURL: 'https://marketplace-dev-cdn.10allday.com/',
   useMinCSS: true,
   useMinJS: true,
 };
