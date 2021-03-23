@@ -2,9 +2,9 @@
   "name": "spartacus-styleguide",
   "main": "index.js",
   "version": "0.0.1",
-  "homepage": "https://github.com/mozilla/spartacus",
+  "homepage": "https://github.com/10allday-Software/spartacus",
   "authors": [
-    "Mozilla Payments Team"
+    "10allday Payments Team"
   ],
   "description": "StyleGuide for Spartacuse",
   "license": "MPL2.0",
